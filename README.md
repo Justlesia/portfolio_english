@@ -3,7 +3,8 @@
 ## Portfolio
 
 
-Diploma of Professional Retraining ["Specialist in Data Science"](https://disk.yandex.ru/i/BUQOW8bhcGXpkA)
+Professional Retraining Diploma ["Specialist in Data Science"](https://disk.yandex.ru/i/BUQOW8bhcGXpkA)
+
 Professional Retraining Diploma ["Analyst"]()
 
 List of projects:
